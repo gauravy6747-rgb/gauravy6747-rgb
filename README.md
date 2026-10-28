@@ -11,7 +11,7 @@
 
 ### 🚀 What I'm working on
 
-I build and run **[CauseKind](https://www.causekind.com)**, a live CSR donation platform that connects donors, people in need and NGOs for money and item donations. I work across the whole stack and lead our intern development team.
+I build and run **[CauseKind](https://www.causekind.com)**, a live CSR donation platform that connects donors, people in need and NGOs for money and item donations. I work across the whole stack and lead our development team.
 
 - ⚙️ **Backend:** Java 21, Spring Boot, Spring Security (JWT), JPA/Hibernate, PostgreSQL + Flyway
 - 🎨 **Frontend:** Next.js, React, TypeScript, Tailwind CSS
